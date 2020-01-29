@@ -1,0 +1,32 @@
+body {
+	color: rgb(10,10,10);
+	background-color: #eeeeee;
+	text-align: center;
+}
+header {
+	font-family: Century Gothic, sans-serif;
+}
+
+h2 {
+	font-family: Century Gothic, sans-serif;
+}
+
+p {
+	color:#2b3856;
+}
+
+
+
+strong {
+	font-size: 20px;
+	font-weight: normal;
+}
+
+p {
+	font-family: Arial, sans-serif;
+}
+
+
+#paragraph2 {
+	background-color: grey;
+}
