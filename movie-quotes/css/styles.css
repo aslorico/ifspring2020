@@ -1,0 +1,17 @@
+body {
+	color: rgb(50,50,50);
+	background-color: #eeeeee;
+}
+header {
+	background-color: #222222;
+	color: #ffffff;
+	padding: 10px 40px 10px 40px ;
+}
+
+p {
+	color: black;
+}
+
+.peter-venkman {
+	color:green;
+}
