@@ -1,0 +1,190 @@
+body {
+	margin:10;
+	padding:0px;
+	font-family: "Crimson Text", "Helvetica", serif;
+	font-size: 24px;
+}
+
+header {
+		padding-bottom: 50px;
+}
+
+#fontweight1 {
+	font-size: 28px;
+	padding: 0px;
+	color: rgb(180, 180, 180);
+}
+
+#fontweight2 {
+	font-size: 16px;
+	padding: 0px;
+	color: rgb(180, 180, 180)
+}
+
+#fontweight4 {
+	font-size: 16px;
+	padding: 0px;
+	color: rgb(180, 180, 180)
+}
+
+#fontweight5 {
+	font-weight: bold;
+}
+
+#fontstyle1 {
+	font-size: 28px;
+	padding: 0px;
+	color: rgb(180, 180, 180);
+}
+
+#fontstyle2 {
+	font-size: 16px;
+	padding: 0px;
+	color: rgb(180, 180, 180)
+}
+
+#fontstyle4 {
+	font-size: 16px;
+	padding: 0px;
+	color: rgb(180, 180, 180)
+}
+
+#fontstyle5 {
+	font-style: italic;
+}
+
+#letterspacing1 {
+	font-size: 28px;
+	padding: 0px;
+	color: rgb(180, 180, 180);
+}
+
+#letterspacing2 {
+	font-size: 16px;
+	padding: 0px;
+	color: rgb(180, 180, 180)
+}
+ 
+#letterspacing4 {
+	font-size: 16px;
+	padding: 0px;
+	color: rgb(180, 180, 180)
+}
+
+#letterspacing5 {
+	letter-spacing: .3em;
+}
+
+#letterspacing6 {
+	font-size: 16px;
+	padding: 0px;
+	color: rgb(180, 180, 180)
+}
+
+#lettingspacing7 {
+	letter-spacing: -0.6em;
+}
+
+#textdecoration1 {
+	font-size: 28px;
+	padding: 0px;
+	color: rgb(180, 180, 180);
+}
+
+#textdecoration2 {
+	font-size: 16px;
+	padding: 0px;
+	color: rgb(180, 180, 180)
+}
+
+#textdecoration4 {
+	font-size: 16px;
+	padding: 0px;
+	color: rgb(180, 180, 180)
+}
+
+#textdecoration5 {
+	text-decoration: underline;
+}
+
+#textdecoration6 {
+	font-size: 16px;
+	padding: 0px;
+	color: rgb(180, 180, 180)
+}
+
+#textdecoration7 {
+	text-decoration: line-through;
+}
+
+#textdecoration8 {
+	font-size: 16px;
+	padding: 0px;
+	color: rgb(180, 180, 180)
+}
+
+#textdecoration9 {
+	text-decoration: overline;
+}
+
+#texttransform1 {
+	font-size: 28px;
+	padding: 0px;
+	color: rgb(180, 180, 180);
+}
+
+#texttransform2 {
+	font-size: 16px;
+	padding: 0px;
+	color: rgb(180, 180, 180)
+}
+
+#texttransform4 {
+	font-size: 16px;
+	padding: 0px;
+	color: rgb(180, 180, 180)
+}
+
+#texttransform5 {
+	text-transform: uppercase;
+}
+
+#texttransform6 {
+	font-size: 16px;
+	padding: 0px;
+	color: rgb(180, 180, 180)
+}
+
+#texttransform7 {
+	text-transform: lowercase;
+}
+
+#texttransform8 {
+	font-size: 16px;
+	padding: 0px;
+	color: rgb(180, 180, 180)
+}
+
+#texttransform9 {
+	text-transform: capitalize;
+}
+
+#firstsection {
+	padding-bottom: 50px;
+}
+
+#secondsection {
+	padding-bottom: 50px;
+}
+
+#thirdsection {
+	padding-bottom: 50px;
+}
+
+#fourthsection {
+	padding-bottom: 50px;
+}
+
+#fifthsection {
+	padding-bottom: 50px;
+}
