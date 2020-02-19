@@ -1,0 +1,46 @@
+#aside1 {
+	float:right;
+}
+
+#section2 {
+	position: relative;
+}
+
+#aside2 {
+	position: absolute;
+	right:0;
+	bottom: 0;
+}
+
+#section3 {
+	position: relative;
+}
+
+#aside3 {
+	background-color: green;
+	position: fixed;
+	position: absolute;
+	right:0;
+	top:0;
+}
+
+#section4 {
+	position: relative;
+}
+
+#aside4 {
+	background-color: red;
+	position: absolute;
+	z-index: 30;
+	top: 200px;
+	left:350px;
+
+}
+#aside5 {
+	background-color: black;
+	position: absolute;
+	z-index: 20;
+	top:210px;
+	left:360px;
+
+}
