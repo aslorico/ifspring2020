@@ -1,0 +1,22 @@
+h1 {
+	text-align: left;
+	padding: 80px;
+	color: rgb(35, 147, 147);
+}
+
+h2 {
+	text-align: left;
+	padding: 80px;
+	font-style: italic;
+}
+
+body {
+	text-align: left;
+	padding:80px;
+}
+
+#mainline {
+	text-transform: uppercase;
+	color: rgb(35, 147, 147);
+}
+
