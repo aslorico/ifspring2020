@@ -1,0 +1,60 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Permanent Marker', cursive;
+}
+
+h1 {
+	font-size:30px;
+	padding-top: 150px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	text-align: center;
+	color: white;
+	text-shadow: 
+	-1px -1px 0 #000,
+	1px -1px 0 #000,
+	-1px 1px 0 #000,
+	1px 1px 0 #000
+	;
+
+}
+
+h2 {
+	text-align: center;
+	font-size:18px;
+	margin-top: 0px;
+	color: white;
+	text-shadow: 
+	-1px -1px 0 #000,
+	1px -1px 0 #000,
+	-1px 1px 0 #000,
+	1px 1px 0 #000
+}
+
+header {
+	background-color: rgba(255,0,0,.2);
+	height: 450px;
+	text-align: center;
+	padding-top: 0px;
+	background-image: url(https://images.squarespace-cdn.com/content/v1/56ab6938a976af10d4770e5e/1541684177041-W9F2B78NERR1NPUMGNZ3/ke17ZwdGBToddI8pDm48kExptxNDRG2QMxctvsZweX97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0hveExjbswnAj1UrRPScjfDdtK1TicU0XkagiIY7oAprVtdFigbxYL2906BWmWZNTQ/Brown+Butter+Salted+Caramel+Chocolate+Chunk+Cookies.+Regular+pantry+staples+are+elevated+to+another+level+to+give+this+cookie+a+%27fancy+with+only+a+little+more+effort%27+vibe.+Brown+butter+is+stirred+in+with+toasty+muscovado+sugar+to+form+a+perfect+cookie+dough%2C+and+then+hard+caramel+shards+and+chocolate+chunks+are+folded+in+to+give+the+perfect+amount+of+chocolate+and+caramel+per+bite.+Finished+with+flaky+sea+salt%2C+this+is+a+super+easy+yet+satisfying+baking+recipe.+%23saltedcaramelcookie+%23chocolatechunkcookie+%23brownbutter);
+	background-repeat:no-repeat; 
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+}
+ 
+ h3 {
+ 	font-family: 'Lacquer', sans-serif;
+ 	text-align: center;
+ }
+ ul {
+ 	font-family: 'Lacquer', sans-serif;
+ 	list-style-type: none;
+ }
+
+ p {
+ 	font-family: 'Lacquer', sans-serif;
+ 	padding-left: 10px;
+ 	padding-right: 10px;
+ }
