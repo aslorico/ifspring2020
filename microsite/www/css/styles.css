@@ -1,0 +1,166 @@
+body {
+  padding: 0;
+  max-width: 940px;
+  margin: auto;
+  font-family: 'Work Sans', sans-serif;
+  color: #708090;
+  background-color: #F8F8FF;
+}
+
+.container {
+  box-sizing: border-box;
+}
+
+.headline h1{
+  text-align: center;
+  padding-top: 200px;
+  padding-bottom: 200px;
+  font-size: 70px;
+  margin-bottom: 0;
+  line-height: 1.2em;
+  text-transform: uppercase;
+  background: -webkit-linear-gradient(#eee, #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: #00008B;
+
+}
+.categories {
+  padding-top: 200px;
+  float:left;
+  text-transform: uppercase;
+  text-align: center;
+  color: #000000;
+  line-height: 2.0;
+}
+
+.picture {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
+}
+
+.bg{
+  padding-top: 200px;
+   width: 100%;
+  z-index: 0;
+  padding-bottom: 200px;
+}
+
+a {
+  font-family: 'Work Sans', sans-serif;
+  color: #708090;
+  text-decoration: none;
+}
+
+a:hover {
+  color:#5F9EA0;
+}
+
+@media (max-width: 1400px) {
+  body {0
+    width: 75%;
+  }
+}
+
+@media (min-width: 830px) {
+  body {0
+   width: 50%;
+  }
+}
+
+.pic-Fitz {
+  position: relative;
+}
+
+.text-Fitz {
+  position: absolute;
+  top: 250px;
+  left: 50px;
+  color: #E0FFFF;
+}
+
+.bottom {
+  color: #708090;
+  padding-bottom: 50px;
+}
+/* beginning of about page formatting */
+.on-the-wall {
+    max-width:100%;
+    height:auto;
+    padding-top: 100px;
+}
+
+.sidebar-about {
+  position: absolute;
+  bottom: 350px;
+  left: 30px;
+  text-transform: capitalize;
+  font-size: 90px;
+  color:#DC143C;
+}
+.text-about {
+  padding-top: 50px;
+  padding-bottom: 100px;
+}
+
+/* beginning of climbs page formatting */
+
+.on-the-wall {
+    max-width:100%;
+    height:auto;
+    padding-top: 100px;
+}
+
+.sidebar-climbs {
+  position: absolute;
+  bottom: 350px;
+  left: 30px;
+  text-transform: capitalize;
+  font-size: 90px;
+  color:#556B2F;
+}
+
+/* beginning of partnerships page formatting */
+
+.on-the-wall {
+    max-width:100%;
+    height:auto;
+    padding-top: 100px;
+}
+
+.sidebar-partnerships {
+  position: absolute;
+  bottom: 50px;
+  left: 450px;
+  text-transform: capitalize;
+  font-size: 90px;
+  color:#DAA520;
+}
+/* beginning of other work page formatting */
+
+.sidebar-partnerships {
+  position: absolute;
+  bottom: 50px;
+  left: 450px;
+  text-transform: capitalize;
+  font-size: 90px;
+  color:#ffdab3;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
